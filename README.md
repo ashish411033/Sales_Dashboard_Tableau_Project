@@ -1,5 +1,5 @@
 # Sales_Dashboard_Tableau_Project
-This Tableau project visualizes sales performance using datasets on Customers, Locations,  Orders, and Products. The interactive dashboard provides insights into regional sales trends,  top-performing products, customer distribution, and order value analysis to support data-driven  business decisions
+This Tableau project visualizes sales performance using datasets on Customers, Locations,  Orders, and Products. The interactive dashboard provides insights into sales and profit trends,  top-performing product, business KPI's and order value analysis to support data-driven  business decisions
 
 
 ## 📌 Project Overview
@@ -11,10 +11,10 @@ Using structured datasets, this Tableau project analyzes core sales metrics from
 
 
 ## 📊 Key Features
-- ✅ **Sales by Region** and **State-wise performance tracking**  
+- ✅ **Sales and Profit over time**
 - ✅ **Top-selling Products** and Category-level breakdown  
 - ✅ **Order Trends Over Time** using line and bar charts  
-- ✅ **Customer Segmentation** by purchase behavior  
+- ✅ **Total sales, total profit and total Quantity sold KPI's**
 - ✅ Filters and interactive visuals for deeper drill-downs  
 
 
@@ -29,3 +29,5 @@ Using structured datasets, this Tableau project analyzes core sales metrics from
 ## 🛠 Tools Used
 - **Tableau Public / Tableau Desktop**
 - **CSV Files** for data input and blending
+
+![Dashboard Screenshot](https://github.com/ashish411033/Sales_Dashboard_Tableau_Project/blob/main/Tableau%20Dashboard.PNG)
